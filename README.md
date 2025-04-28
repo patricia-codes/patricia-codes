@@ -11,7 +11,8 @@
 - Python
 - Django
 - Streamlit
-- HTML e CSS (básico)
+- HTML e CSS
+- JavaScript
 
 ### Próximos passos:
 - Aprender mais sobre bancos de dados (SQL)
