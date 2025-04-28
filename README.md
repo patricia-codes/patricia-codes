@@ -1,16 +1,21 @@
-## Hi there 👋
+# Olá, eu sou a Patrícia! 👋
 
-<!--
-**patricia-codes/patricia-codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Ciência da Computação (3º semestre)  
+💻 Atualmente estudando Python para desenvolvimento web  
+🚀 Conhecimento em Streamlit e começando a aprender Django  
+🔎 Buscando oportunidades para crescer na área de tecnologia  
+📫 Você pode me encontrar no [LinkedIn](https://patricia-oliveira-rocha)
 
-Here are some ideas to get you started:
+---
+### Tecnologias que estou aprendendo:
+- Python
+- Django
+- Streamlit
+- HTML e CSS (básico)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Próximos passos:
+- Aprender mais sobre bancos de dados (SQL)
+- Desenvolvimento de APIs
+
+---
+⭐ Vamos construir juntos! ⭐
