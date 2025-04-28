@@ -4,7 +4,7 @@
 💻 Atualmente estudando Python para desenvolvimento web  
 🚀 Conhecimento em Streamlit e começando a aprender Django  
 🔎 Buscando oportunidades para crescer na área de tecnologia  
-📫 Você pode me encontrar no [LinkedIn](https://patricia-oliveira-rocha)
+📫 Você pode me encontrar no [LinkedIn](https://www.linkedin.com/in/patricia-oliveira-rocha)
 
 ---
 ### Tecnologias que estou aprendendo:
