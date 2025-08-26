@@ -1,22 +1,27 @@
 # Olá, eu sou a Patrícia! 👋
 
-🎓 Estudante de Ciência da Computação (3º semestre)  
-💻 Atualmente estudando Python para desenvolvimento web  
-🚀 Conhecimento em Streamlit e começando a aprender Django  
-🔎 Buscando oportunidades para crescer na área de tecnologia  
-📫 Você pode me encontrar no [LinkedIn](https://www.linkedin.com/in/patricia-oliveira-rocha)
+🎓 Estudante de **Ciência da Computação (3º semestre)**  
+💻 Conhecimento em **Python para desenvolvimento web e análise de dados**  
+🚀 Já desenvolvi projetos em **Django, Streamlit, HTML e CSS**  
+📊 Aprendendo também **Excel e Power BI** para análise e visualização de dados  
+📫 Você pode me encontrar no  [LinkedIn](https://www.linkedin.com/in/patricia-oliveira-rocha)
 
 ---
-### Tecnologias que estou aprendendo:
+
+### 🛠️ Tecnologias e ferramentas que já utilizei:
 - Python
 - Django
 - Streamlit
-- HTML e CSS
+- HTML & CSS
 - JavaScript
-
-### Próximos passos:
-- Aprender mais sobre bancos de dados (SQL)
-- Desenvolvimento de APIs
+- Excel
+- Power BI
 
 ---
-⭐ Vamos construir juntos! ⭐
+
+### 📚 Próximos passos:
+- Aprimorar conhecimentos em **SQL e bancos de dados**
+- Desenvolvimento de **APIs**
+- Avançar na trilha de **Ciência de Dados**
+
+
