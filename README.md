@@ -74,7 +74,7 @@ Projetos que representam minha atuação prática em <strong>Análise de Dados</
     <td align="center" width="50%">
       <h3>📊 Dashboard de Indicadores</h3>
       <p>Análise de dados com SQL e Power BI focada em métricas e indicadores de negócio.</p>
-      <a href="LINK_DASHBOARD">
+      <a href="https://github.com/patricia-codes/metabase-dashboard-avaliacao-produtos-sql">
         <img src="https://img.shields.io/badge/Ver%20Projeto-9B5DE5?style=for-the-badge"/>
       </a>
     </td>
