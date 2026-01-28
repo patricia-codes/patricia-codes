@@ -144,18 +144,18 @@ SQL avançado • APIs REST • Engenharia e Ciência de Dados
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4"/>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4"/>
 
-<h2 align="center">GitHub Stats</h2>
+<h2 align="center">📊 Estatísticas do GitHub</h2>
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=patricia-codes&show_icons=true&theme=radical&hide_border=true"
-    height="165"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=patricia-codes&layout=compact&theme=radical&hide_border=true"
-    height="165"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=patricia-codes&show_icons=true&locale=pt-br&bg_color=0d1117&title_color=ff4d8d&text_color=fafafa&icon_color=ff85b3&border_radius=12" />
 </p>
+<h2 align="center">💻 Linguagens mais utilizadas</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=patricia-codes&layout=compact&locale=pt-br&bg_color=0d1117&title_color=ff4d8d&text_color=fafafa&border_radius=12" />
+</p>
+
+
 
 
 <h2 align="center">Contato profissional</h2>
