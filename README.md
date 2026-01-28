@@ -71,7 +71,7 @@ Análise de Dados • Dashboards Analíticos • Indicadores de Negócio • Des
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4"/>
 
-<h2 align="center">Featured Projects</h2>
+<h2 align="center">Projetos em Destaque</h2>
 
 <p align="center">
 Projetos que representam minha atuação prática em <strong>Análise de Dados</strong>, <strong>Visualização</strong> e <strong>Desenvolvimento Web</strong>.
