@@ -45,6 +45,58 @@ Experiência prática com <strong>Python, SQL, Power BI, Django e Streamlit</str
 
 <h2 align="center">Tecnologias & Ferramentas</h2>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4"/>
+
+<h2 align="center">Featured Projects</h2>
+
+<p align="center">
+Projetos que representam minha atuação prática em <strong>Análise de Dados</strong>, <strong>Visualização</strong> e <strong>Desenvolvimento Web</strong>.
+</p>
+
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <h3>📊 Dashboard Analítico</h3>
+      <p>
+        Análise de dados com SQL e Power BI, focada em métricas de negócio, indicadores e tomada de decisão.
+      </p>
+      <a href="LINK_DO_REPOSITORIO_AQUI">
+        <img src="https://img.shields.io/badge/Ver%20Projeto-9B5DE5?style=for-the-badge"/>
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <h3>🐍 Análise de Dados em Python</h3>
+      <p>
+        Exploração, tratamento e visualização de dados utilizando Python, pandas e visualização.
+      </p>
+      <a href="LINK_DO_REPOSITORIO_AQUI">
+        <img src="https://img.shields.io/badge/Ver%20Projeto-DB4C77?style=for-the-badge"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <h3>🌐 Aplicação Web</h3>
+      <p>
+        Aplicação desenvolvida com Django e Streamlit, integrando dados, back-end e interface.
+      </p>
+      <a href="LINK_DO_REPOSITORIO_AQUI">
+        <img src="https://img.shields.io/badge/Ver%20Projeto-6A5ACD?style=for-the-badge"/>
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <h3>🗄️ SQL & Banco de Dados</h3>
+      <p>
+        Consultas SQL, modelagem de dados e análise exploratória aplicada a cenários reais.
+      </p>
+      <a href="LINK_DO_REPOSITORIO_AQUI">
+        <img src="https://img.shields.io/badge/Ver%20Projeto-8A2BE2?style=for-the-badge"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+
 <h3 align="center">Linguagens & Frameworks</h3>
 
 <p align="center">
