@@ -142,6 +142,21 @@ SQL avançado • APIs REST • Engenharia e Ciência de Dados
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4"/>
+
+<h2 align="center">GitHub Stats</h2>
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=patricia-codes&show_icons=true&theme=radical&hide_border=true"
+    height="165"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=radical&hide_border=true"
+    height="165"
+  />
+</p>
+
 
 <h2 align="center">Contato profissional</h2>
 
