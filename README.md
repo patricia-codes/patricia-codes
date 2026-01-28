@@ -88,9 +88,9 @@ Projetos que representam minha atuação prática em <strong>Análise de Dados</
   </tr>
   <tr>
     <td align="center" width="50%">
-      <h3>🗄️ SQL & Modelagem de Dados</h3>
-      <p>Consultas SQL, criação de views e análise exploratória aplicada.</p>
-      <a href="LINK_SQL">
+      <h3>Análise de Vendas e Indicadores de Negócio – Power BI</h3>
+      <p>Dashboard desenvolvido no Power BI para análise de vendas, indicadores comerciais, margem de lucro e desempenho ao longo do tempo, apoiando a tomada de decisão estratégica.</p>
+      <a href="https://github.com/patricia-codes/powerbi-dashboard-vendas">
         <img src="https://img.shields.io/badge/Ver%20Projeto-8A2BE2?style=for-the-badge"/>
       </a>
     </td>
