@@ -129,12 +129,6 @@ Projetos que representam minha atuação prática em <strong>Análise de Dados</
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4"/>
 
-<h2 align="center">🐍 Minhas Contribuições no GitHub</h2>
-
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=patricia-codes&theme=github-dark-purple&hide_border=true&area=true" />
-</p>
-
 
 <h2 align="center">Contato profissional</h2>
 
