@@ -152,7 +152,7 @@ SQL avançado • APIs REST • Engenharia e Ciência de Dados
     height="165"
   />
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=radical&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=patricia-codes&layout=compact&theme=radical&hide_border=true"
     height="165"
   />
 </p>
