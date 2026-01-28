@@ -95,13 +95,15 @@ Projetos que representam minha atuação prática em <strong>Análise de Dados</
       </a>
     </td>
     <td align="center" width="50%">
-      <h3>🌐 Aplicação de Dados (Projeto Complementar)</h3>
-      <p>Aplicação desenvolvida com Django e Streamlit para disponibilização de análises e dashboards.</p>
-      <a href="LINK_WEB">
-        <img src="https://img.shields.io/badge/Ver%20Projeto-6A5ACD?style=for-the-badge"/>
-      </a>
-    </td>
-  </tr>
+  <h3>🌐 Aplicação de Dados (Projeto Complementar)</h3>
+  <p>
+    Aplicação desenvolvida em Python com Django e Streamlit para organização e visualização de dados de uma loja fictícia de roupas esportivas, permitindo análises básicas de produtos e pedidos.
+  </p>
+  <a href="https://github.com/patricia-codes/CenterFit">
+    <img src="https://img.shields.io/badge/Ver%20Projeto-6A5ACD?style=for-the-badge"/>
+  </a>
+</td>
+
 </table>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4"/>
