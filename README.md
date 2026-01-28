@@ -3,11 +3,11 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=26&pause=1200&color=9B5DE5&center=true&vCenter=true&width=800&lines=Analista+de+Dados+Formada;Ciência+da+Computação;Python+•+SQL+•+Power+BI+•+Web" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=26&pause=1200&color=9B5DE5&center=true&vCenter=true&width=800&lines=Analista+de+Dados;Ciência+da+Computação;Python+•+SQL+•+Power+BI+•+Web" />
 </p>
 
 <p align="center">
-  <strong>Analista de Dados formada</strong> • Estudante de Ciência da Computação<br>
+  <strong>Analista de Dados</strong> • Estudante de Ciência da Computação<br>
   Dados • Desenvolvimento Web • Tecnologia aplicada a decisões reais
 </p>
 
