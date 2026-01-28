@@ -3,18 +3,18 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=26&pause=1200&color=9B5DE5&center=true&vCenter=true&width=900&lines=Analista+de+Dados;Data Analytics;Ciência+da+Computação;Python+•+SQL+•+Power+BI+•+Indicadores de Negócio" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=26&pause=1200&color=9B5DE5&center=true&vCenter=true&width=900&lines=Analista+de+Dados;Data+Analytics+%7C+Business+Intelligence;Python+•+SQL+•+Power+BI;Indicadores+de+Negócio;Ciência+da+Computação" />
 </p>
 
 <p align="center">
   <strong>Analista de Dados</strong> • Estudante de Ciência da Computação<br>
-  Dados • Business Intelligence • Python | SQL | Power BI
+  Data Analytics • Business Intelligence • Python | SQL | Power BI
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Data%20Analytics-DB4C77?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Web%20Development-6A5ACD?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Python%20%7C%20SQL%20%7C%20BI-8A2BE2?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Business%20Intelligence-6A5ACD?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Python%20%7C%20SQL%20%7C%20Power%20BI-8A2BE2?style=flat-square"/>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4"/>
@@ -22,7 +22,7 @@
 <h2 align="center">Sobre mim</h2>
 
 <p align="center">
-Sou <strong>formada em Análise de Dados</strong> e estudante de <strong>Ciência da Computação</strong>, com foco em transformar dados em informação estratégica e desenvolver soluções tecnológicas para apoiar a tomada de decisão.
+Sou <strong>Analista de Dados</strong>, formada na área e estudante de <strong>Ciência da Computação</strong>, com foco em transformar dados em informação estratégica para apoiar a tomada de decisão.
 </p>
 
 <p align="center">
@@ -47,10 +47,12 @@ Análise de Dados • Dashboards Analíticos • Business Intelligence • Indic
 
 <h3 align="center">Linguagens & Frameworks</h3>
 
-<img src="https://img.shields.io/badge/Python-4B0082?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-8A2BE2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Streamlit-C71585?style=for-the-badge&logo=streamlit&logoColor=white"/>
-<img src="https://img.shields.io/badge/Django-3A0CA3?style=for-the-badge&logo=django&logoColor=white"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-4B0082?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-8A2BE2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Streamlit-C71585?style=for-the-badge&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-3A0CA3?style=for-the-badge&logo=django&logoColor=white"/>
+</p>
 
 <h3 align="center">Dados & Visualização</h3>
 
@@ -64,20 +66,20 @@ Análise de Dados • Dashboards Analíticos • Business Intelligence • Indic
 <h2 align="center">Projetos em Destaque</h2>
 
 <p align="center">
-Projetos que representam minha atuação prática em <strong>Análise de Dados</strong>, <strong>Visualização</strong> e <strong>Desenvolvimento Web</strong>.
+Projetos que representam minha atuação prática em <strong>Análise de Dados</strong>, <strong>Visualização</strong> e <strong>Business Intelligence</strong>.
 </p>
 
 <table align="center">
   <tr>
     <td align="center" width="50%">
-      <h3>📊 Dashboard Analítico</h3>
+      <h3>📊 Dashboard de Indicadores</h3>
       <p>Análise de dados com SQL e Power BI focada em métricas e indicadores de negócio.</p>
       <a href="LINK_DASHBOARD">
         <img src="https://img.shields.io/badge/Ver%20Projeto-9B5DE5?style=for-the-badge"/>
       </a>
     </td>
     <td align="center" width="50%">
-      <h3>🐍 Análise de Dados em Python</h3>
+      <h3>🐍 Análise Exploratória em Python</h3>
       <p>Exploração, tratamento e visualização de dados utilizando Python e pandas.</p>
       <a href="LINK_PYTHON">
         <img src="https://img.shields.io/badge/Ver%20Projeto-DB4C77?style=for-the-badge"/>
@@ -86,22 +88,21 @@ Projetos que representam minha atuação prática em <strong>Análise de Dados</
   </tr>
   <tr>
     <td align="center" width="50%">
-      <h3>🌐 Aplicação Web ((Projeto Complementar)</h3>
-      <p>Aplicação desenvolvida com Django e Streamlit integrando dados e back-end.</p>
-      <a href="LINK_WEB">
-        <img src="https://img.shields.io/badge/Ver%20Projeto-6A5ACD?style=for-the-badge"/>
-      </a>
-    </td>
-    <td align="center" width="50%">
-      <h3>🗄️ SQL & Banco de Dados</h3>
-      <p>Consultas SQL, modelagem de dados e análise exploratória aplicada.</p>
+      <h3>🗄️ SQL & Modelagem de Dados</h3>
+      <p>Consultas SQL, criação de views e análise exploratória aplicada.</p>
       <a href="LINK_SQL">
         <img src="https://img.shields.io/badge/Ver%20Projeto-8A2BE2?style=for-the-badge"/>
       </a>
     </td>
+    <td align="center" width="50%">
+      <h3>🌐 Aplicação de Dados (Projeto Complementar)</h3>
+      <p>Aplicação desenvolvida com Django e Streamlit para disponibilização de análises e dashboards.</p>
+      <a href="LINK_WEB">
+        <img src="https://img.shields.io/badge/Ver%20Projeto-6A5ACD?style=for-the-badge"/>
+      </a>
+    </td>
   </tr>
 </table>
-
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4"/>
 
@@ -119,7 +120,6 @@ Projetos que representam minha atuação prática em <strong>Análise de Dados</
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4"/>
 
-
 <h2 align="center">Contato profissional</h2>
 
 <p align="center">
@@ -131,3 +131,4 @@ Projetos que representam minha atuação prática em <strong>Análise de Dados</
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 </p>
+
