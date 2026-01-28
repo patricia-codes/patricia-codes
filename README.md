@@ -81,20 +81,37 @@ Projetos que representam minha atuação prática em <strong>Análise de Dados</
   <tr>
     <td align="center" width="50%">
       <h3>📊 Dashboard Analítico</h3>
-      <p>Análise de dados com SQL e Power BI focada em métricas de negócio.</p>
-      <a href="LINK_DO_REPOSITORIO">
+      <p>Análise de dados com SQL e Power BI focada em métricas e indicadores de negócio.</p>
+      <a href="LINK_DASHBOARD">
         <img src="https://img.shields.io/badge/Ver%20Projeto-9B5DE5?style=for-the-badge"/>
       </a>
     </td>
     <td align="center" width="50%">
       <h3>🐍 Análise de Dados em Python</h3>
-      <p>Exploração, tratamento e visualização de dados com Python.</p>
-      <a href="LINK_DO_REPOSITORIO">
+      <p>Exploração, tratamento e visualização de dados utilizando Python e pandas.</p>
+      <a href="LINK_PYTHON">
         <img src="https://img.shields.io/badge/Ver%20Projeto-DB4C77?style=for-the-badge"/>
       </a>
     </td>
   </tr>
+  <tr>
+    <td align="center" width="50%">
+      <h3>🌐 Aplicação Web</h3>
+      <p>Aplicação desenvolvida com Django e Streamlit integrando dados e back-end.</p>
+      <a href="LINK_WEB">
+        <img src="https://img.shields.io/badge/Ver%20Projeto-6A5ACD?style=for-the-badge"/>
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <h3>🗄️ SQL & Banco de Dados</h3>
+      <p>Consultas SQL, modelagem de dados e análise exploratória aplicada.</p>
+      <a href="LINK_SQL">
+        <img src="https://img.shields.io/badge/Ver%20Projeto-8A2BE2?style=for-the-badge"/>
+      </a>
+    </td>
+  </tr>
 </table>
+
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4"/>
 
