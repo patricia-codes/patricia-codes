@@ -3,12 +3,12 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=26&pause=1200&color=9B5DE5&center=true&vCenter=true&width=900&lines=Analista+de+Dados;Ciência+da+Computação;Python+•+SQL+•+Power+BI+•+Web" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=26&pause=1200&color=9B5DE5&center=true&vCenter=true&width=900&lines=Analista+de+Dados;Data Analytics;Ciência+da+Computação;Python+•+SQL+•+Power+BI+•+Indicadores de Negócio" />
 </p>
 
 <p align="center">
   <strong>Analista de Dados</strong> • Estudante de Ciência da Computação<br>
-  Dados • Desenvolvimento Web • Tecnologia aplicada a decisões reais
+  Dados • Business Intelligence • Python | SQL | Power BI
 </p>
 
 <p align="center">
@@ -22,15 +22,15 @@
 <h2 align="center">Sobre mim</h2>
 
 <p align="center">
-Sou <strong>formada em Análise de Dados</strong> e estudante de <strong>Ciência da Computação</strong>, com foco em transformar dados em informação estratégica e desenvolver soluções tecnológicas bem estruturadas.
+Sou <strong>formada em Análise de Dados</strong> e estudante de <strong>Ciência da Computação</strong>, com foco em transformar dados em informação estratégica e desenvolver soluções tecnológicas para apoiar a tomada de decisão.
 </p>
 
 <p align="center">
-Atuo com <strong>análise, visualização e exploração de dados</strong>, além do desenvolvimento de aplicações web voltadas à organização, performance e tomada de decisão baseada em dados.
+Atuo com <strong>análise, tratamento, visualização e interpretação de dados</strong>, desenvolvendo dashboards, indicadores e análises orientadas a negócio.
 </p>
 
 <p align="center">
-Experiência prática com <strong>Python, SQL, Power BI, Django e Streamlit</strong>, integrando dados, lógica e visualização.
+Tenho experiência com <strong>Python, SQL e Power BI</strong>, além de utilizar ferramentas como <strong>Streamlit e Django</strong> para disponibilização e automação de análises.
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4"/>
@@ -38,7 +38,7 @@ Experiência prática com <strong>Python, SQL, Power BI, Django e Streamlit</str
 <h2 align="center">Áreas de atuação</h2>
 
 <p align="center">
-Análise de Dados • Dashboards Analíticos • Indicadores de Negócio • Desenvolvimento Web • SQL & Modelagem de Dados • Integração entre dados, produto e decisão
+Análise de Dados • Dashboards Analíticos • Business Intelligence • Indicadores de Negócio • SQL & Modelagem de Dados • Análises orientadas à decisão
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4"/>
@@ -47,20 +47,10 @@ Análise de Dados • Dashboards Analíticos • Indicadores de Negócio • Des
 
 <h3 align="center">Linguagens & Frameworks</h3>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-4B0082?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-3A0CA3?style=for-the-badge&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Streamlit-C71585?style=for-the-badge&logo=streamlit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-8A2BE2?style=for-the-badge"/>
-</p>
-
-<h3 align="center">Front-end</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-DB7093?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-BA55D3?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-DDA0DD?style=for-the-badge&logo=javascript&logoColor=black"/>
-</p>
+<img src="https://img.shields.io/badge/Python-4B0082?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-8A2BE2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Streamlit-C71585?style=for-the-badge&logo=streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/Django-3A0CA3?style=for-the-badge&logo=django&logoColor=white"/>
 
 <h3 align="center">Dados & Visualização</h3>
 
@@ -96,7 +86,7 @@ Projetos que representam minha atuação prática em <strong>Análise de Dados</
   </tr>
   <tr>
     <td align="center" width="50%">
-      <h3>🌐 Aplicação Web</h3>
+      <h3>🌐 Aplicação Web ((Projeto Complementar)</h3>
       <p>Aplicação desenvolvida com Django e Streamlit integrando dados e back-end.</p>
       <a href="LINK_WEB">
         <img src="https://img.shields.io/badge/Ver%20Projeto-6A5ACD?style=for-the-badge"/>
