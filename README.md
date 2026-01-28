@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=26&pause=1200&color=9B5DE5&center=true&vCenter=true&width=900&lines=Analista+de+Dados+Formada;Ciência+da+Computação;Python+•+SQL+•+Power+BI+•+Web" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=26&pause=1200&color=9B5DE5&center=true&vCenter=true&width=900&lines=Analista+de+Dados;Ciência+da+Computação;Python+•+SQL+•+Power+BI+•+Web" />
 </p>
 
 <p align="center">
