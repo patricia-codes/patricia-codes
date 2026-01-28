@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=26&pause=1200&color=9B5DE5&center=true&vCenter=true&width=800&lines=Analista+de+Dados;Ciência+da+Computação;Python+•+SQL+•+Power+BI+•+Web" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=26&pause=1200&color=9B5DE5&center=true&vCenter=true&width=900&lines=Analista+de+Dados+Formada;Ciência+da+Computação;Python+•+SQL+•+Power+BI+•+Web" />
 </p>
 
 <p align="center">
@@ -26,7 +26,7 @@ Sou <strong>formada em Análise de Dados</strong> e estudante de <strong>Ciênci
 </p>
 
 <p align="center">
-Atuo com <strong>análise, visualização e exploração de dados</strong>, além do desenvolvimento de aplicações web voltadas para organização, performance e tomada de decisão baseada em dados.
+Atuo com <strong>análise, visualização e exploração de dados</strong>, além do desenvolvimento de aplicações web voltadas à organização, performance e tomada de decisão baseada em dados.
 </p>
 
 <p align="center">
@@ -38,64 +38,12 @@ Experiência prática com <strong>Python, SQL, Power BI, Django e Streamlit</str
 <h2 align="center">Áreas de atuação</h2>
 
 <p align="center">
-• Análise e exploração de dados • Dashboards e indicadores de negócio • Desenvolvimento de aplicações web • Modelagem e consultas SQL • Integração entre dados, produto e decisão
+Análise de Dados • Dashboards Analíticos • Indicadores de Negócio • Desenvolvimento Web • SQL & Modelagem de Dados • Integração entre dados, produto e decisão
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4"/>
 
 <h2 align="center">Tecnologias & Ferramentas</h2>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4"/>
-
-<h2 align="center">Featured Projects</h2>
-
-<p align="center">
-Projetos que representam minha atuação prática em <strong>Análise de Dados</strong>, <strong>Visualização</strong> e <strong>Desenvolvimento Web</strong>.
-</p>
-
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <h3>📊 Dashboard Analítico</h3>
-      <p>
-        Análise de dados com SQL e Power BI, focada em métricas de negócio, indicadores e tomada de decisão.
-      </p>
-      <a href="LINK_DO_REPOSITORIO_AQUI">
-        <img src="https://img.shields.io/badge/Ver%20Projeto-9B5DE5?style=for-the-badge"/>
-      </a>
-    </td>
-    <td align="center" width="50%">
-      <h3>🐍 Análise de Dados em Python</h3>
-      <p>
-        Exploração, tratamento e visualização de dados utilizando Python, pandas e visualização.
-      </p>
-      <a href="LINK_DO_REPOSITORIO_AQUI">
-        <img src="https://img.shields.io/badge/Ver%20Projeto-DB4C77?style=for-the-badge"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <h3>🌐 Aplicação Web</h3>
-      <p>
-        Aplicação desenvolvida com Django e Streamlit, integrando dados, back-end e interface.
-      </p>
-      <a href="LINK_DO_REPOSITORIO_AQUI">
-        <img src="https://img.shields.io/badge/Ver%20Projeto-6A5ACD?style=for-the-badge"/>
-      </a>
-    </td>
-    <td align="center" width="50%">
-      <h3>🗄️ SQL & Banco de Dados</h3>
-      <p>
-        Consultas SQL, modelagem de dados e análise exploratória aplicada a cenários reais.
-      </p>
-      <a href="LINK_DO_REPOSITORIO_AQUI">
-        <img src="https://img.shields.io/badge/Ver%20Projeto-8A2BE2?style=for-the-badge"/>
-      </a>
-    </td>
-  </tr>
-</table>
-
 
 <h3 align="center">Linguagens & Frameworks</h3>
 
@@ -123,25 +71,31 @@ Projetos que representam minha atuação prática em <strong>Análise de Dados</
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4"/>
 
-<h2 align="center">Projetos</h2>
+<h2 align="center">Featured Projects</h2>
 
 <p align="center">
-Dashboards analíticos em <strong>Power BI</strong> • Análises com <strong>Python e SQL</strong> • Aplicações web com <strong>Django e Streamlit</strong> • Projetos práticos e acadêmicos voltados à área de dados
+Projetos que representam minha atuação prática em <strong>Análise de Dados</strong>, <strong>Visualização</strong> e <strong>Desenvolvimento Web</strong>.
 </p>
 
-<p align="center">
-Os repositórios demonstram desde <strong>exploração e tratamento de dados</strong> até <strong>visualização e desenvolvimento de aplicações</strong>.
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <h3>📊 Dashboard Analítico</h3>
+      <p>Análise de dados com SQL e Power BI focada em métricas de negócio.</p>
+      <a href="LINK_DO_REPOSITORIO">
+        <img src="https://img.shields.io/badge/Ver%20Projeto-9B5DE5?style=for-the-badge"/>
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <h3>🐍 Análise de Dados em Python</h3>
+      <p>Exploração, tratamento e visualização de dados com Python.</p>
+      <a href="LINK_DO_REPOSITORIO">
+        <img src="https://img.shields.io/badge/Ver%20Projeto-DB4C77?style=for-the-badge"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4"/>
-
-<h2 align="center">Em desenvolvimento</h2>
-
-<p align="center">
-SQL avançado • APIs REST • Engenharia e Ciência de Dados
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4"/>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4"/>
 
 <h2 align="center">📊 Estatísticas do GitHub</h2>
@@ -149,14 +103,14 @@ SQL avançado • APIs REST • Engenharia e Ciência de Dados
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=patricia-codes&show_icons=true&locale=pt-br&bg_color=0d1117&title_color=ff4d8d&text_color=fafafa&icon_color=ff85b3&border_radius=12" />
 </p>
+
 <h2 align="center">💻 Linguagens mais utilizadas</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=patricia-codes&layout=compact&locale=pt-br&bg_color=0d1117&title_color=ff4d8d&text_color=fafafa&border_radius=12" />
 </p>
 
-
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4"/>
 
 <h2 align="center">Contato profissional</h2>
 
