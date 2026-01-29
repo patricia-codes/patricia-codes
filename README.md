@@ -128,9 +128,9 @@ Projetos que representam minha atuação prática em <strong>Análise de Dados</
   <a href="https://www.linkedin.com/in/patricia-oliveira-rocha">
     <img src="https://img.shields.io/badge/LinkedIn-6A0DAD?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+  <a href="mailto:rocha.patriciadeoliveira@gmail.com">
+    <img src="https://img.shields.io/badge/Email-DB4C77?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
-</p>
 
