@@ -2,6 +2,17 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Patrícia%20Rocha&fontSize=48&fontColor=ffffff&animation=fadeIn" />
 </p>
 
+<h2 align="center">Contato profissional</h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/patricia-oliveira-rocha">
+    <img src="https://img.shields.io/badge/LinkedIn-6A0DAD?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:rocha.patriciadeoliveira@gmail.com">
+    <img src="https://img.shields.io/badge/Email-DB4C77?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=26&pause=1200&color=9B5DE5&center=true&vCenter=true&width=900&lines=Analista+de+Dados;Data+Analytics+%7C+Business+Intelligence;Python+•+SQL+•+Power+BI;Indicadores+de+Negócio;Ciência+da+Computação" />
 </p>
@@ -108,11 +119,6 @@ Projetos que representam minha atuação prática em <strong>Análise de Dados</
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4"/>
 
-<h2 align="center">📊 Estatísticas do GitHub</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=patricia-codes&show_icons=true&locale=pt-br&bg_color=0d1117&title_color=ff4d8d&text_color=fafafa&icon_color=ff85b3&border_radius=12" />
-</p>
 
 <h2 align="center">💻 Linguagens mais utilizadas</h2>
 
@@ -120,17 +126,5 @@ Projetos que representam minha atuação prática em <strong>Análise de Dados</
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=patricia-codes&layout=compact&locale=pt-br&bg_color=0d1117&title_color=ff4d8d&text_color=fafafa&border_radius=12" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4"/>
-
-<h2 align="center">Contato profissional</h2>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/patricia-oliveira-rocha">
-    <img src="https://img.shields.io/badge/LinkedIn-6A0DAD?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:rocha.patriciadeoliveira@gmail.com">
-    <img src="https://img.shields.io/badge/Email-DB4C77?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
 
 
