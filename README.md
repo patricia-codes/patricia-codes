@@ -118,14 +118,14 @@ Análise de dados com SQL e Metabase para construção de indicadores de avalia�
 
 <td align="center" width="50%">
 
-<h3>🐍 Análise Exploratória de Dados em Python</h3>
+<h3>📝 Gerenciador de Tarefas em Python</h3>
 
 <p>
-Exploração, limpeza e análise de dados utilizando Python, pandas e visualização com gráficos para identificação de padrões e insights.
+Aplicação em Python puro para gerenciamento de tarefas via terminal, com persistência de dados em arquivo JSON.
 </p>
 
-<a href="LINK_PYTHON">
-<img src="https://img.shields.io/badge/Ver%20Projeto-DB4C77?style=for-the-badge"/>
+<a href="https://github.com/patricia-codes/gerenciador-tarefas-python">
+<img src="https://img.shields.io/badge/Ver%20Projeto-9B5DE5?style=for-the-badge"/>
 </a>
 
 </td>
